@@ -1,0 +1,15 @@
+my:
+#  custom:
+#    property: Hello from app properties
+
+
+  own:
+    value: Hello form YAML application properties
+  serwer:
+    port: 0001
+
+custom:
+  login-url: test-login
+  credentials:
+    user: test-user
+    password: pass
